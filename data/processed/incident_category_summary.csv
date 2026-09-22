@@ -1,0 +1,6 @@
+attack_category,records,percentage
+DoS / DDoS,90622,76.85
+Normal traffic,12015,10.19
+ARP poisoning,7625,6.47
+Network scanning,7624,6.47
+Brute-force attack,36,0.03
